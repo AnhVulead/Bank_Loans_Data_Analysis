@@ -1,0 +1,15 @@
+loan_amount: Amount of money requested by borrower
+
+funded_amount: Amount actually funded
+
+term: Loan duration in months
+
+interest_rate: Annual interest rate
+
+annual_income: Borrower's annual income
+
+dti: Debt-to-income ratio
+
+grade: Credit grade assigned
+
+loan_status: Current status of the loan

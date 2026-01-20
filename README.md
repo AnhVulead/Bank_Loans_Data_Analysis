@@ -7,6 +7,20 @@ This project analyzes historical consumer loan data to identify **key drivers of
 The analysis focuses on how **borrower characteristics**, **loan attributes**, and **repayment burden** influence default behavior, supporting data-driven lending and risk management decisions.
 
 ---
+## 📊 Interactive Dashboard
+
+### Layer 1 – Executive Overview
+![Layer 1](images/layer1_overview.png)
+
+### Layer 2 – Risk Analysis
+![Layer 2](images/layer2_risk_analysis.png)
+
+### Layer 3 – Risk vs Return
+![Layer 3](images/layer3_risk_return.png)
+
+### Layer 4 – Customer Risk Profile
+![Layer 4](images/layer4_customer_profile.png)
+
 
 ## 🎯 Business Objectives
 - Identify key factors associated with loan default risk
